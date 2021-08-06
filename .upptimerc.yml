@@ -26,7 +26,7 @@ status-website:
 
 workflowSchedule:
   graphs: "0 23 * * *"
-  responseTime: "0 23 * * *"
+  responseTime: "*/5 * * * *"
   staticSite: "0 23 * * *"
   summary: "0 23 * * *"
   updateTemplate: "0 23 * * *"
