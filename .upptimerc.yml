@@ -5,6 +5,8 @@ repo: sitestatus # The name of this repository
 sites:
   - name: transfer.sh
     url: https://transfer.sh/
+  - name: gofile.io
+    url: https://gofile.io/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
