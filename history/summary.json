@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 474,
-    "timeDay": 474,
-    "timeWeek": 474,
-    "timeMonth": 474,
-    "timeYear": 474,
+    "time": 478,
+    "timeDay": 478,
+    "timeWeek": 478,
+    "timeMonth": 478,
+    "timeYear": 478,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 905,
-    "timeDay": 905,
-    "timeWeek": 905,
-    "timeMonth": 905,
-    "timeYear": 905,
+    "time": 925,
+    "timeDay": 925,
+    "timeWeek": 925,
+    "timeMonth": 925,
+    "timeYear": 925,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Heroku",
+    "url": "https://theroku.com/",
+    "icon": "https://favicons.githubusercontent.com/theroku.com",
+    "slug": "heroku",
+    "status": "down",
+    "uptime": "19.31%",
+    "uptimeDay": "19.31%",
+    "uptimeWeek": "19.31%",
+    "uptimeMonth": "19.31%",
+    "uptimeYear": "19.31%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2021-08-06": 0
+    }
   }
 ]
