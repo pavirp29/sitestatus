@@ -40,19 +40,19 @@
     "url": "https://heroku.com/",
     "icon": "https://favicons.githubusercontent.com/heroku.com",
     "slug": "heroku",
-    "status": "up",
-    "uptime": "98.72%",
-    "uptimeDay": "95.02%",
-    "uptimeWeek": "98.72%",
-    "uptimeMonth": "98.72%",
-    "uptimeYear": "98.72%",
+    "status": "down",
+    "uptime": "98.83%",
+    "uptimeDay": "95.44%",
+    "uptimeWeek": "98.83%",
+    "uptimeMonth": "98.83%",
+    "uptimeYear": "98.83%",
     "time": 967,
     "timeDay": 1631,
     "timeWeek": 967,
     "timeMonth": 967,
     "timeYear": 967,
     "dailyMinutesDown": {
-      "2021-08-10": 6,
+      "2021-08-10": 0,
       "2021-08-09": 66
     }
   }
