@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 506,
-    "timeDay": 508,
+    "timeDay": 511,
     "timeWeek": 506,
     "timeMonth": 506,
     "timeYear": 506,
@@ -23,18 +23,18 @@
     "icon": "https://favicons.githubusercontent.com/gofile.io",
     "slug": "gofile-io",
     "status": "up",
-    "uptime": "99.28%",
-    "uptimeDay": "95.73%",
-    "uptimeWeek": "99.28%",
-    "uptimeMonth": "99.28%",
-    "uptimeYear": "99.28%",
+    "uptime": "99.00%",
+    "uptimeDay": "94.01%",
+    "uptimeWeek": "99.00%",
+    "uptimeMonth": "99.00%",
+    "uptimeYear": "99.00%",
     "time": 1025,
     "timeDay": 1337,
     "timeWeek": 1025,
     "timeMonth": 1025,
     "timeYear": 1025,
     "dailyMinutesDown": {
-      "2021-08-12": 62
+      "2021-08-12": 86
     }
   },
   {
@@ -49,7 +49,7 @@
     "uptimeMonth": "99.21%",
     "uptimeYear": "99.21%",
     "time": 925,
-    "timeDay": 735,
+    "timeDay": 738,
     "timeWeek": 925,
     "timeMonth": 925,
     "timeYear": 925,
