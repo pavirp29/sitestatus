@@ -23,19 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/gofile.io",
     "slug": "gofile-io",
     "status": "up",
-    "uptime": "99.87%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.87%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1024,
     "timeDay": 1324,
     "timeWeek": 1024,
     "timeMonth": 1024,
     "timeYear": 1024,
-    "dailyMinutesDown": {
-      "2021-08-12": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Heroku",
