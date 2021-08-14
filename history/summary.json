@@ -23,18 +23,18 @@
     "icon": "https://favicons.githubusercontent.com/gofile.io",
     "slug": "gofile-io",
     "status": "up",
-    "uptime": "72.51%",
+    "uptime": "72.50%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "67.96%",
-    "uptimeMonth": "72.51%",
-    "uptimeYear": "72.51%",
+    "uptimeWeek": "67.94%",
+    "uptimeMonth": "72.50%",
+    "uptimeYear": "72.50%",
     "time": 1074,
     "timeDay": 1081,
     "timeWeek": 1091,
     "timeMonth": 1074,
     "timeYear": 1074,
     "dailyMinutesDown": {
-      "2021-08-14": 578,
+      "2021-08-14": 581,
       "2021-08-13": 1440,
       "2021-08-12": 1211
     }
@@ -45,18 +45,17 @@
     "icon": "https://favicons.githubusercontent.com/heroku.com",
     "slug": "heroku",
     "status": "up",
-    "uptime": "99.30%",
-    "uptimeDay": "99.00%",
-    "uptimeWeek": "99.21%",
-    "uptimeMonth": "99.30%",
-    "uptimeYear": "99.30%",
+    "uptime": "99.43%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.35%",
+    "uptimeMonth": "99.43%",
+    "uptimeYear": "99.43%",
     "time": 872,
     "timeDay": 729,
     "timeWeek": 884,
     "timeMonth": 872,
     "timeYear": 872,
     "dailyMinutesDown": {
-      "2021-08-14": 14,
       "2021-08-09": 66
     }
   }
