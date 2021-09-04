@@ -6,7 +6,7 @@
     "slug": "transfer-sh",
     "status": "up",
     "uptime": "95.66%",
-    "uptimeDay": "0.00%",
+    "uptimeDay": "0.29%",
     "uptimeWeek": "81.75%",
     "uptimeMonth": "95.66%",
     "uptimeYear": "95.66%",
@@ -37,7 +37,7 @@
     "timeMonth": 1039,
     "timeYear": 1039,
     "dailyMinutesDown": {
-      "2021-09-04": 888,
+      "2021-09-04": 892,
       "2021-09-03": 1440,
       "2021-09-02": 1440,
       "2021-09-01": 1440,
