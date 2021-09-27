@@ -1,7 +1,7 @@
 url: https://heroku.com/
-status: down
-code: 503
-responseTime: 5354
-lastUpdated: 2021-09-27T19:41:11.040Z
+status: up
+code: 200
+responseTime: 1068
+lastUpdated: 2021-09-27T19:48:12.597Z
 startTime: Fri Aug 06 2021 10:07:21 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
